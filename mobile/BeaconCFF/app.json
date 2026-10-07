@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "BeaconCFF",
+    "slug": "BeaconCFF",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/beacon.png",
+    "scheme": "beaconcff",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "com.anonymous.beaconcff"
+    },
+    "android": {
+      "predictiveBackGestureEnabled": false,
+      "package": "com.anonymous.beaconcff",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/beacon.png",
+        "backgroundColor": "#c4d6f3"
+      }
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/beacon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#ffffff",
+          "image": "./assets/beacon.png",
+          "imageWidth": 100
+        }
+      ],
+      [
+        "react-native-ble-plx",
+        {
+          "neverForLocation": true,
+          "bluetoothAlwaysPermission": "Allow BeaconCFF to connect to your Beacon and control its LED."
+        }
+      ],
+      "./plugins/with-icon-inset.js"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
