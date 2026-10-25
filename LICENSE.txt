@@ -1,0 +1,58 @@
+========================================================================
+PROJECT LICENSING SUMMARY
+========================================================================
+
+This project contains both software and hardware components, each 
+governed by its own license:
+
+1. SOFTWARE COMPONENTS
+   All software, source code, scripts, and firmware (located in the 
+   /mobile and /firmware directories) are licensed under the 
+   BSD 3-Clause Clear License.
+
+2. HARDWARE COMPONENTS
+   All hardware designs, CAD files, schematics, PCB layouts, and 
+   documentation (located in the /hardware directory) are 
+   licensed under the Creative Commons Attribution 4.0 International 
+   License (CC BY 4.0).
+
+See the full text of each license below.
+
+========================================================================
+PART 1: SOFTWARE LICENSE (BSD 3-Clause Clear License)
+========================================================================
+
+Copyright (c) 2026 Richard Li
+
+The software source code, firmware, scripts, and associated software components
+in this repository are licensed under the BSD 3-Clause Clear License (BSD-3-Clause-Clear).
+
+The full license text is available in:
+
+`/mobile/LICENSE.txt`
+
+and
+
+`/firmware/LICENSE.txt`
+
+and:
+
+[https://spdx.org/licenses/BSD-3-Clause-Clear.html](https://spdx.org/licenses/BSD-3-Clause-Clear.html)
+
+========================================================================
+PART 2: HARDWARE & DESIGN LICENSE (CC BY 4.0)
+========================================================================
+
+Copyright (c) 2026 Richard Li
+
+The hardware designs, schematics, CAD files, and documentation in this 
+repository are licensed under the Creative Commons Attribution 4.0 
+International License (CC BY 4.0).
+
+The full license text is available in:
+
+`/hardware/LICENSE.txt`
+
+and:
+
+http://creativecommons.org/licenses/by/4.0/
