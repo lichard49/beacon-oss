@@ -29,15 +29,15 @@ in this repository are licensed under the BSD 3-Clause Clear License (BSD-3-Clau
 
 The full license text is available in:
 
-`/mobile/LICENSE.txt`
+/mobile/LICENSE.txt
 
 and
 
-`/firmware/LICENSE.txt`
+/firmware/LICENSE.txt
 
 and:
 
-[https://spdx.org/licenses/BSD-3-Clause-Clear.html](https://spdx.org/licenses/BSD-3-Clause-Clear.html)
+https://spdx.org/licenses/BSD-3-Clause-Clear.html
 
 ========================================================================
 PART 2: HARDWARE & DESIGN LICENSE (CC BY 4.0)
@@ -51,7 +51,7 @@ International License (CC BY 4.0).
 
 The full license text is available in:
 
-`/hardware/LICENSE.txt`
+/hardware/LICENSE.txt
 
 and:
 
