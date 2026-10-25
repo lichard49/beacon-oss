@@ -4,7 +4,7 @@ This directory contains the CAD models and circuit design for the physical Beaco
 
 ## CAD Models
 
-The source files for the CAD models are released on OnShape [here]().
+The source files for the CAD models are released on OnShape [here](https://cad.onshape.com/documents/63ff3395b9d858efbb2304b3/w/c2ced754981f6ef1295a8a90/e/e487c9470a844dd7be8eb912).
 The resulting `cad/*.stl` mesh files are in this directory.
 
 ## Circuit Design
