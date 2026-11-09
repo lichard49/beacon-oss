@@ -22,7 +22,7 @@ See the full text of each license below.
 PART 1: SOFTWARE LICENSE (BSD 3-Clause Clear License)
 ========================================================================
 
-Copyright (c) 2026 Richard Li
+Copyright (c) 2026 University of Washington. Developed by Richard Li.
 
 The software source code, firmware, scripts, and associated software components
 in this repository are licensed under the BSD 3-Clause Clear License (BSD-3-Clause-Clear).
@@ -35,15 +35,11 @@ and
 
 /firmware/LICENSE.txt
 
-and:
-
-https://spdx.org/licenses/BSD-3-Clause-Clear.html
-
 ========================================================================
 PART 2: HARDWARE & DESIGN LICENSE (CC BY 4.0)
 ========================================================================
 
-Copyright (c) 2026 Richard Li
+Copyright (c) 2026 University of Washington. Developed by Richard Li.
 
 The hardware designs, schematics, CAD files, and documentation in this 
 repository are licensed under the Creative Commons Attribution 4.0 
@@ -52,7 +48,3 @@ International License (CC BY 4.0).
 The full license text is available in:
 
 /hardware/LICENSE.txt
-
-and:
-
-http://creativecommons.org/licenses/by/4.0/
